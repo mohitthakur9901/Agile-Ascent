@@ -130,17 +130,17 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.linkedin : "/"}>
+                    <a href={"https://www.linkedin.com/in/mohit-thakur-648ab119b/"}>
                       <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
+                    <a href={ "https://twitter.com/MOHIT__002"}>
                       <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.github : "/"}>
+                    <a href={"https://github.com/mohitthakur9901"}>
                       <i className="fa fa-github"></i>
                     </a>
                   </li>

@@ -4,7 +4,7 @@
     "paragraph": "Welcome to Agile Ascent, where we elevate your software development journey. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "At Agile Ascent, we are committed to delivering cutting-edge software solutions. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At Agile Ascent, we're not just software developers; we're pioneers. We thrive on pushing the boundaries of technology, crafting innovative solutions that empower businesses to achieve their full potential. Our team of passionate experts brings together cutting-edge skills and a deep understanding of your industry to design and build software that solves your unique challenges and drives real results.",
     "Why": [
       "Innovative Software Development",
       "Efficient Project Delivery",
@@ -67,12 +67,12 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-globe",
+      "icon": "fa fa-laptop",
       "name": "Web Development",
       "text": "Crafting dynamic and responsive websites to elevate your online presence. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-code",
+      "icon": "fa fa-server",
       "name": "Backend Development",
       "text": "Building robust server-side applications and APIs to power your business logic. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
@@ -91,54 +91,54 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Working with Agile Ascent has been an incredible experience. They delivered a top-notch solution that exceeded our expectations. I highly recommend their services.\"",
       "name": "Alice Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Agile Ascent has been a valuable partner in our development journey. Their expertise and commitment to quality have made a significant impact on our projects.\"",
       "name": "Bob Smith"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Choosing Agile Ascent was the right decision for our frontend development. Their attention to detail and creative approach set them apart. Highly satisfied!\"",
       "name": "Charlie Brown"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"The team at Agile Ascent is not just skilled but also great collaborators. They understand our needs and deliver solutions that propel our business forward.\"",
       "name": "Diana Miller"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Agile Ascent's professionalism and technical prowess have made them our go-to choice for development projects. Exceptional work every time.\"",
       "name": "Ethan Carter"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Fiona Davis and the Agile Ascent team provided us with outstanding support. Their dedication and innovative solutions have significantly impacted our success.\"",
       "name": "Fiona Davis"
     }
-  ],  
+  ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "John",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Mike",
+      "job": "Senior Developer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Jane ",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "name": "Karen",
       "job": "Project Manager"
     }
   ],
@@ -149,25 +149,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-laptop",
       "title": "Web Development",
       "text": "We specialize in creating engaging and responsive websites that cater to your business needs. Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-server",
       "title": "Backend Development",
       "text": "Our backend development services ensure that your web applications run smoothly, handling server-side logic and database interactions. Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-desktop",
       "title": "Frontend Development",
       "text": "Crafting user-friendly and visually appealing interfaces is our forte. With our frontend development expertise, we bring your designs to life. Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-mobile",
       "title": "React Native Development",
       "text": "Building cross-platform mobile applications becomes seamless with our React Native development services. Experience the magic of native-like performance on both iOS and Android. Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
-  
 }
