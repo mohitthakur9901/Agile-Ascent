@@ -1,5 +1,5 @@
-import { Image } from "./image";
 import React from "react";
+import { Image } from "./image";
 
 export const Gallery = (props) => {
   return (
@@ -8,7 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-          Agile Ascent: Building Trust Through Reliable Software Solutions
+            Agile Ascent: Building Trust Through Reliable Software Solutions
           </p>
         </div>
         <div className="row">
@@ -17,7 +17,7 @@ export const Gallery = (props) => {
               ? props.data.map((d, i) => (
                   <div
                     key={`${d.title}-${i}`}
-                    className="col-sm-6 col-md-4 col-lg-4"
+                    className="col-xs-6 col-sm-6 col-md-4 col-lg-3"
                   >
                     <Image
                       title={d.title}

@@ -2,7 +2,7 @@ import React from "react";
 
 export const Image = ({ title, largeImage, smallImage }) => {
   return (
-    <div className="portfolio-item">
+    <div className="portfolio-item col-sm-6 col-md-4 col-lg-4">
       <div className="hover-bg">
         {" "}
         <a href={largeImage} title={title} data-lightbox-gallery="gallery1">
